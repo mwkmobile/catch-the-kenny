@@ -12,6 +12,8 @@
 		5C028C8E1E88489100356FBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C028C8C1E88489100356FBF /* Main.storyboard */; };
 		5C028C901E88489100356FBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C028C8F1E88489100356FBF /* Assets.xcassets */; };
 		5C028C931E88489100356FBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C028C911E88489100356FBF /* LaunchScreen.storyboard */; };
+		5C028C9B1E88493F00356FBF /* Kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C028C9A1E88493F00356FBF /* Kenny.png */; };
+		5C028C9D1E886A4B00356FBF /* ball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5C028C9C1E886A4B00356FBF /* ball.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		5C028C8F1E88489100356FBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C028C921E88489100356FBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C028C941E88489100356FBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C028C9A1E88493F00356FBF /* Kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kenny.png; sourceTree = "<group>"; };
+		5C028C9C1E886A4B00356FBF /* ball.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ball.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		5C028C871E88489100356FBF /* catch the kenny */ = {
 			isa = PBXGroup;
 			children = (
+				5C028C9A1E88493F00356FBF /* Kenny.png */,
+				5C028C9C1E886A4B00356FBF /* ball.jpg */,
 				5C028C881E88489100356FBF /* AppDelegate.swift */,
 				5C028C8A1E88489100356FBF /* ViewController.swift */,
 				5C028C8C1E88489100356FBF /* Main.storyboard */,
@@ -124,6 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C028C931E88489100356FBF /* LaunchScreen.storyboard in Resources */,
+				5C028C9D1E886A4B00356FBF /* ball.jpg in Resources */,
+				5C028C9B1E88493F00356FBF /* Kenny.png in Resources */,
 				5C028C901E88489100356FBF /* Assets.xcassets in Resources */,
 				5C028C8E1E88489100356FBF /* Main.storyboard in Resources */,
 			);
